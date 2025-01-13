@@ -1,3 +1,2 @@
-Initial content in the file.
-
 This is a change from the master branch.
+This is a change from the feature branch.
